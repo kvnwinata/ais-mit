@@ -1,0 +1,98 @@
+# Please keep this file up to date.  When elections occur, please change
+# the president's name and information as soon as possible.  Your 
+# activity is responsible for the upkeep of this information.  If you 
+# fail to do so, you risk not being informed of important events and 
+# information, and eventual derecognition as a student group.
+#
+# To get the most up-to-date template of this file, look in 
+#         /afs/athena.mit.edu/activity/a/asa/Info/ASA_Info
+# Do not change the template-version line, unless you are updating.
+TEMPLATE-VERSION            1.0d
+
+# Descriptions of each of the fields are listed at the end of this file.
+# Please make sure that the LAST-FILE-UPDATE and ACTIVITY-TYPE fit the
+# required specifications.
+#
+#  And note, the angle-brackets in this file do not belong in your data, so:
+#
+# ACTIVITY-NAME             Association of Student Activities
+#
+# is the correct format.
+
+
+
+LAST-FILE-UPDATE            <date in the form of 05-12-95 or 11-02-95>
+ACTIVITY-NAME               <group name>
+ACTIVITY-TYPE               <group type>
+ACTIVITY-ADDRESS            <group address>
+ACTIVITY-PHONE              <group phone>
+ACTIVITY-OFFICERS-EMAIL     <officers email list, not a list of their emails>
+ACTIVITY-URL                <http://web.mit.edu/.../www/home.html>
+ACTIVITY-CONSTITUTION-PATH  </afs/athena/activity/.../.../Public/constitution.tex>
+ACTIVITY-DESCRIPTION        <one-line description of group>
+MEETINGS                    <time/place of meetings [Mondays at 7pm in 10-250]>
+PRESIDENT-NAME              <president's name>
+PRESIDENT-ADDRESS           <president's address>
+PRESIDENT-EMAIL             <president's email>
+PRESIDENT-PHONE             <president's phone #>
+TREASURER-NAME              <treasurer's name>
+TREASURER-ADDRESS           <treasurer's address>
+TREASURER-EMAIL             <treasurer's email>
+TREASURER-PHONE             <treasurer's phone #>
+ADVISOR-NAME                <advisor's name or none if you don't have one>
+SIGNATURE-ONE               <full-name #1 on signature list>
+SIGNATURE-TWO               <full-name #2 on signature list>
+SIGNATURE-THREE             <full-name #3 on signature list : OPTIONAL>
+SIGNATURE-FOUR              <full-name #4 on signature list : OPTIONAL>
+SIGNATURE-FIVE              <full-name #5 on signature list : OPTIONAL>
+
+
+# NEW-PRESIDENT-PATH      /afs/athena/user/d/w/dwyatt/Public
+
+
+###################################################
+#               Field Descriptions                #
+###################################################
+
+# Date format should be MM-DD-YY with leading zeros in the month or day
+# places, for example 08-29-95 and 12-01-93.
+
+# Valid ACTIVITY-TYPE values :
+#
+#   Academic
+#   Arts          (Performing, Visual and other Arts)
+#   Athletic
+#   Campus Media  (Publications, Radio, TV, etc.)
+#   Computer
+#   Cultural
+#   FSLIG         (Fraternities, Sororities and Independent Living Groups)
+#   Government    (student government groups: UA, GSC, IFC, DormCon, ASA, etc.)
+#   Interest      (sort of a misc. group)
+#   Political
+#   Religious
+#   Service
+#   Social
+
+
+# The ACTIVITY-OFFICERS-EMAIL email address should be an email list of
+# just the officers of your group.  DO NOT PUT YOUR ENTIRE GROUP'S LIST HERE.
+#
+# The ACTIVITY-CONSTITUTION-PATH must be a publically readable file containing
+# the most up-to-date version of your activities constitution.
+#
+# If the file is kept in the president's home directory and an election
+# changed the location of the file, the old president would put the
+# NEW-PRESIDENT-PATH line describing the path of the Public directory of
+# the new president in place of the old file.
+#
+#
+# The five SIGNATURE-*** lines are meant to contain up to five full
+# names of people that are authorized to represent your group to the UA
+# RCA and CAC.  Only these people will be able to reserve rooms through
+# the CAC or Scheduling offices, or make financial transactions to/from
+# your SA or UA accounts.  Two are required.  Up to five are allowed.
+# All changes to these names will be propagated to the appropriate offices
+# every monday morning.
+
+
+
